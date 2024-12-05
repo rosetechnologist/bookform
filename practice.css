@@ -1,0 +1,14 @@
+body{
+	background-color: aliceblue;
+	text-align: center;
+}
+#container{
+	background-color: red;
+	width:290px;
+
+}
+#Booking-form{
+	background-color: aqua;
+	width: 260PX;
+	text-align: center;
+}
